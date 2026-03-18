@@ -1,4 +1,4 @@
-# 🧠 ResearchTrendAI
+#  ResearchTrendAI
 **Intelligent Research Trend & Gap Analyzer**
 
 An AI-powered system that analyzes thousands of research paper abstracts to identify major topics, detect trending research areas, and find underexplored research gaps.
@@ -54,7 +54,7 @@ ResearchTrendAI/
 
 ---
 
-## 🚀 Setup & Running
+## Setup & Running
 
 ### 1. Create virtual environment
 ```bash
@@ -90,7 +90,7 @@ streamlit run app.py
 
 ---
 
-## 📊 What You'll See
+## What we get to See
 
 - **Top Research Topics** — clustered from paper abstracts
 - **Trending Topics** — growth rate detection across years
