@@ -1,0 +1,1 @@
+# ResearchTrendAI source package
