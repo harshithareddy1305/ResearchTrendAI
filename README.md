@@ -5,7 +5,7 @@ An AI-powered system that analyzes thousands of research paper abstracts to iden
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 | Component | Technology |
 |---|---|
@@ -19,7 +19,7 @@ An AI-powered system that analyzes thousands of research paper abstracts to iden
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
 ```
 ResearchTrendAI/
